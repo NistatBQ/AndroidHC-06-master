@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BtArduinoApp</string>
+    <string name="bluetooth_on_off">Вкл./Выкл. Bluetooth</string>
+    <string name="bluetooth_off">Bluetooth выключен</string>
+    <string name="begin_search">Начать поиск</string>
+    <string name="bluetooth_not_suported">Bluetooth не поддерживается</string>
+    <string name="name_device">Name device</string>
+    <string name="address_devise">Address devise</string>
+    <string name="stop_search">Остановить поиск</string>
+    <string name="start_search">Начать поиск</string>
+    <string name="disconnect">Отключиться</string>
+    <string name="led_red">Red</string>
+    <string name="led_grin">Green</string>
+    <string name="btn_A">A</string>
+    <string name="btn_B">B</string>
+    <string name="btn_C">C</string>
+    <string name="btn_D">D</string>
+    <string name="btn_E">E</string>
+    <string name="btn_F">F</string>
+    <string name="btn_G">G</string>
+</resources>
